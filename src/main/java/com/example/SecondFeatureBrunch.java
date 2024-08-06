@@ -5,4 +5,5 @@ public class SecondFeatureBrunch {
     //second commit in second feature brunch
     //third commit in second feature brunch
     //forth commit in second feature brunch
+    //fifth commit in second feature brunch
 }
